@@ -28,10 +28,10 @@ Explorez mes projets pour en savoir plus sur mes contributions concrètes et mes
 
 ---
 
-## 📫 Contactez-moi
+## Contactez-moi
 
-- LinkedIn : [VotreProfilLinkedIn]([https://www.linkedin.com/in/votreprofil/](https://www.linkedin.com/in/sa%C3%AFdi-mohamed/))
-- Portfolio : [VotrePortfolio](https://[votreportfolio.com](https://20.123.91.83/))
+- [LinkedIn](https://www.linkedin.com/in/sa%C3%AFdi-mohamed/)
+- [Portfolio](https://[votreportfolio.com](https://20.123.91.83/))
 
 ---
 
